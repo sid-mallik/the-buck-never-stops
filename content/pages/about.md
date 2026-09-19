@@ -5,9 +5,11 @@ url: "/about/"
 
 ### Visualising world markets as a dynamically moving **triadic hyperspace** of innovation, theory & practice.
 
+<!-- <img src="../images/triad4.svg"> -->
+<!-- {{< img "/images/triad4.svg" "Decision Triad" >}} -->
+<!--{{"/images/triad4.svg" | relURL}}-->
 <div style="text-align:center;">
 <img src="../images/triad4.svg">
-<!-- {{< img "/images/triad4.svg" "Decision Triad" >}} -->
 </div>
 
 
