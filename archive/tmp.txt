@@ -9,3 +9,6 @@
 	  .social-icon img {
 	filter: #000000;
 	}
+	
+	opacity: 1;
+	filter: invert(0.75);

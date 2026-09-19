@@ -90,12 +90,10 @@ h1, h2, h3 {
     .footer {
       padding-top: 40px; } }
 .social-icon img {
-  opacity: 1;
-  filter: none;
-  mix-blend-mode: normal; }
+  opacity: 0.5;
+  filter: invert(0.7); }
 
 .social-icon {
-  opacity: 1;
   margin-right: 10px; }
   .social-icon a {
     text-decoration: none; }
