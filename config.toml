@@ -1,4 +1,6 @@
 baseURL = "https://sid-mallik.github.io/the-buck-never-stops/"
+relativeURLs = true
+canonifyURLs = false
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"

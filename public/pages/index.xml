@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hugo Winston Theme</title>
-    <link>/pages/</link>
-    <description>Recent content in Pages on Hugo Winston Theme</description>
+    <title>Pages on Moral Values of Decisions for Providing Macro-security</title>
+    <link>https://sid-mallik.github.io/the-buck-never-stops/pages/</link>
+    <description>Recent content in Pages on Moral Values of Decisions for Providing Macro-security</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Sep 2026 19:56:11 +0100</lastBuildDate><atom:link href="https://sid-mallik.github.io/the-buck-never-stops/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>/about/</link>
+      <title>Specialised Terms</title>
+      <link>https://sid-mallik.github.io/the-buck-never-stops/glossary/</link>
+      <pubDate>Wed, 16 Sep 2026 19:56:11 +0100</pubDate>
+      
+      <guid>https://sid-mallik.github.io/the-buck-never-stops/glossary/</guid>
+      <description>macro: The prefix macro- comes from the Greek makros, meaning large or large-scale. In economics, it refers to phenomena arising from the whole economy rather than individual agents. Two ways to think about macro are aggregation and systemic. Aggregated thinking starts with a collection of components, like in a bottom-up sense, while systemic thinking starts with the system instead of the components, like in a top-down sense.
+  security: The term security means any note, stock, treasury stock, security future, security-based swap, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a “security”, or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing (Source: 15 U.</description>
+    </item>
+    
+    <item>
+      <title>Know the Curve</title>
+      <link>https://sid-mallik.github.io/the-buck-never-stops/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Contra vagos Lorem markdownum notam si lintea meque certa en meumque illis, diu fatigant, nec praedae concustodita arcet. Paviunt castris cur errat ventis causa! Silvas sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.</description>
+      <guid>https://sid-mallik.github.io/the-buck-never-stops/about/</guid>
+      <description>Visualising world markets as a dynamically moving triadic hyperspace of innovation, theory &amp;amp; practice.  Frontier Characteristics My knowledge body is focused around a specialised frontier comprising of, Science of Markets Bounded Rationality Heterogeneous Expectations  Experience Cube  The cube has known faces while the shading represents the possibilities arising both from inside-the-box &amp;amp; out-of-the-box thinking.
+  Executive, Data-driven Decisions Algorithmic Trading Client-facing Roles Scientific Computing  Academic, PhD, Data Science (ongoing) PG Diploma (research methods) BSc Mathematics  Investment Banking, Certified Investment Banking Analyst PhD Research in Market-based Decisions  Direction  Visionary leadership: I have a vision for adding structure to world markets with Smart Data.</description>
     </item>
     
   </channel>
