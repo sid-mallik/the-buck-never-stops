@@ -91,7 +91,7 @@ h1, h2, h3 {
       padding-top: 40px; } }
 .social-icon img {
   opacity: 0.5;
-  filter: invert(0.7); }
+  filter: invert(0.8); }
 
 .social-icon {
   margin-right: 10px; }
