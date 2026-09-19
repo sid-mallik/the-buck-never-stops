@@ -6,7 +6,7 @@ url: "/about/"
 ### Visualising world markets as a dynamically moving **triadic hyperspace** of innovation, theory & practice.
 
 <div style="text-align:center;">
-<img src="/images/triad4.svg">
+<img src="images/triad4.svg">
 </div>
 
 # Frontier Characteristics
