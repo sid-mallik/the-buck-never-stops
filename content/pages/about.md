@@ -6,8 +6,10 @@ url: "/about/"
 ### Visualising world markets as a dynamically moving **triadic hyperspace** of innovation, theory & practice.
 
 <div style="text-align:center;">
-<img src="/images/triad4.svg">
+<img src="../images/triad4.svg">
+<!-- {{< img "/images/triad4.svg" "Decision Triad" >}} -->
 </div>
+
 
 # Frontier Characteristics
 
@@ -33,7 +35,8 @@ url: "/about/"
 > The cube has known faces while the shading represents the possibilities arising both from **inside-the-box** & **out-of-the-box** thinking. 
 
 <div style="text-align:center;">
-<img src="/images/experience-cube-2.svg">
+<img src="../images/experience-cube-2.svg">
+<!-- <img src="experience-cube-2.svg"> -->
 </div>
 
 ### Executive,
