@@ -6,7 +6,9 @@
   }
   
   .social-icon img {
-	filter: invert(1);
+	opacity: 1;
+	filter: none;
+	mix-blend-mode: normal;
 	}
   
   .social-icon {
@@ -17,7 +19,7 @@
       &:hover {
         text-decoration: none;
         img {
-          opacity: 1;
+          opacity: 0.5;
         }
       }
     }

@@ -1,0 +1,11 @@
+,
+	{
+      	"name": "LinkedIn",
+		"url": "https://www.linkedin.com/in/sidharth-mallik-86421a6",
+	    "image": "images/social/linkedin.svg"
+    }
+	
+	
+	  .social-icon img {
+	filter: #000000;
+	}
